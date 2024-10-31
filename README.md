@@ -20,7 +20,7 @@ I'm using visual studio to work on my VM. To do that, you need to install the ex
 
 4. Create service account, then create key (json), rename it if you wish. put the my-creds.json to somewhere in the virtual machine.
 
-5. Navigate to the folder that your docker-compose.yml file exist. run `docker-compose build` and then `docker-compose up -d`. You will have MAGE AI and postgres running running after finishing this step.
+5. Navigate to the folder that your docker-compose.yml file exist. run `docker-compose build` and then `docker-compose up -d`. You will have MAGE AI and postgres running after finishing this step.
 
 6. Forward port 6789 in your VS code, then open browser and enter "localhost:6789" to navigate to MAGE UI. 
 
