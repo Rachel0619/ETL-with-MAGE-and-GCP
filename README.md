@@ -1,7 +1,3 @@
-<div>
-<img src="https://github.com/mage-ai/assets/blob/main/mascots/mascots-shorter.jpeg?raw=true">
-</div>
-
 ## ETL Pipeline with MAGE and GCP
 
 In this repo, I documented the procedures I took to set up the ETL pipeline using MAGE. 
