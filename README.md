@@ -2,8 +2,6 @@
 
 In this repo, I documented the procedures I took to set up the ETL pipeline using MAGE. 
 
-### Detailed step-by-step tutotial
-
 1. Set up your GCP account
 
 You can sign up a GCP account with $400 free credit which is enough for your personal project. Then the first thing you need to do is creating a VM instance. There are tons of tutorials that show you how to do this so I'll skip this part.
