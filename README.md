@@ -18,7 +18,7 @@ I'm using visual studio to work on my VM. To do that, you need to install the ex
 
 6. Forward port 6789 in your VS code, then open the browser and enter "localhost:6789" to navigate to MAGE UI. 
 
-8. Create pipelines inside your project. 
+8. Create pipelines inside your MAGE project. 
 
 9. Create a BigQuery dataset for your project (I was using Terraform to do this, but you can also do it manually).
 
