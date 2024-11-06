@@ -28,7 +28,7 @@ I'm using visual studio to work on my VM. To do that, you need to install the ex
 
 12. Everytime the instance is shut down and then restart, the external IP address changes so you need to update that in the config file in the .ssh file
 
-13. The `.env` file should exist in the same folder as the docker-compose.yml file
+13. The `.env` file should exist in the same folder as the docker-compose.yml file
 
 14. Important note!!! You need to make sure that the container in which you are running your MAGE AI is the same one that your MAGE UI is running. If it's not, kill everything that was running on port 6789 because they might be stale and then rerun docker-compose build and docker-compose up
 
